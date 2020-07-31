@@ -1,0 +1,65 @@
+body {
+    background: #16222A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #16222A, rgb(35, 91, 170), #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #16222A, rgb(35, 91, 170), #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#topContainer {
+    margin-top: 76px;
+}
+
+.navbar-brand {
+    color: lightskyblue;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, .75);
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.nav-link {
+    color: rgb(180, 180, 180);
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.navbar-toggler {
+    color: rgb(180, 180, 180);
+    outline: none;
+}
+
+.navbar-toggler:hover {
+    color: white;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    color: lightskyblue;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, .50);
+    color: white;
+}
+
+.cardButtons {
+    margin-top: auto;
+}
+
+#about {
+    padding: 35px;
+    background-color: rgba(0, 0, 0, .5);
+    text-align: justify;
+    color: white;
+}
+
+h2 {
+    color: lightskyblue;
+}
