@@ -1,4 +1,4 @@
-### To-dos
+## To-dos
 
 * add projects and connect project buttons
 * add resume
@@ -12,4 +12,4 @@
 3. 
 4. 
 5. 
-6. 
+6. Weather Report
