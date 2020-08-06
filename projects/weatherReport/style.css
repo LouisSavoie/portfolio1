@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    background: #56CCF2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #5ea4ff, white);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #5ea4ff, white); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    font-family: 'Questrial', sans-serif;
+}
+
+header {
+    max-width: 720px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+section {
+    max-width: 720px;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 30%;
+    min-width: 200px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+    background-color: rgb(101, 183, 250);
+    text-align: center;
+}
+
+.period {
+    height: 100%;
+}

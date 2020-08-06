@@ -4,12 +4,16 @@
 
 * Link to Linkedin
 * Link to GitHub
+* Download my Resume (Placeholder, WIP)
 * Contact E-mail
-* Doownload my Resume
 * Projects with Demo and GitHub
-* About me
+    1. Responsive Color Game
+    2. Weather Report
+* About Me
 
-## Features
+## Included Technologies
+
+(exculdes technologies used in projects)
 
 * HTML / CSS
 * [Bootstrap 4](https://fontawesome.com/)
