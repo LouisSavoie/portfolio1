@@ -6,9 +6,10 @@
 * Link to GitHub
 * Download my Resume (Placeholder, WIP)
 * Contact E-mail
-* Projects with Demo and GitHub
-    1. Responsive Color Game
-    2. Weather Report
+* Projects with Demo and GitHub links
+    1. Yelp Camp
+    2. Responsive Color Game
+    3. Weather Report
 * About Me
 
 ## Included Technologies
