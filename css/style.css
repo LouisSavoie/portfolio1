@@ -1,14 +1,23 @@
+/* -------------------- */
+/*         Body         */
+/* -------------------- */
+
 body {
     background: #16222A;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #16222A, rgb(35, 91, 170), #16222A);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #16222A, rgb(35, 91, 170), #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
+    color: white;
 }
 
-#topContainer {
-    margin-top: 76px;
+p {
+    color: rgb(185, 185, 185);
 }
+
+/* -------------------- */
+/*        Navbar        */
+/* -------------------- */
 
 .navbar-brand {
     color: lightskyblue;
@@ -44,22 +53,53 @@ body {
     color: lightskyblue;
 }
 
+/* -------------------- */
+/*      Jumbotron       */
+/* -------------------- */
+
+.jumbotron {
+    margin-top: 90px;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, .50);
+}
+
+h1 {
+    color: lightskyblue;
+}
+
+/* -------------------- */
+/*       Projects       */
+/* -------------------- */
+
+#projects-title-container {
+    margin-bottom: 15px;
+    padding: 13px 0px 13px 25px;
+    background-color: rgba(0, 0, 0, .50);
+}
+
 .card {
     background-color: rgba(0, 0, 0, .50);
-    color: white;
 }
 
 .cardButtons {
     margin-top: auto;
 }
 
+/* -------------------- */
+/*        About         */
+/* -------------------- */
+
 #about {
     padding: 35px;
     background-color: rgba(0, 0, 0, .5);
     text-align: justify;
-    color: white;
 }
 
-h2 {
-    color: lightskyblue;
+/* -------------------- */
+/*        Footer        */
+/* -------------------- */
+
+#footer p {
+    text-align: center;
+    color: white;
 }

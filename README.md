@@ -17,6 +17,7 @@
 (exculdes technologies used in projects)
 
 * HTML / CSS
+* Semantic HTML Elements
 * SEO (Open Graph, Twitter Card)
 * [Bootstrap 4](https://fontawesome.com/)
 * [Font Awesome](https://fontawesome.com/)
