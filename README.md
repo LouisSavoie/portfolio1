@@ -6,9 +6,11 @@
 * Link to GitHub
 * Download my Resume (Placeholder, WIP)
 * Contact E-mail
-* Projects with Demo and GitHub
-    1. Responsive Color Game
-    2. Weather Report
+* Projects with Demo and GitHub links
+    1. Yelp Camp
+    2. Responsive Color Game
+    3. Weather Report
+    4. This Page!
 * About Me
 
 ## Included Technologies
@@ -16,6 +18,10 @@
 (exculdes technologies used in projects)
 
 * HTML / CSS
+* Semantic HTML Elements
+* SEO (Open Graph, Twitter Card)
 * [Bootstrap 4](https://fontawesome.com/)
 * [Font Awesome](https://fontawesome.com/)
 * [uiGradients](https://uigradients.com/)
+* Scalable Vector Graphics
+* [Devicons](https://devicons.github.io/devicon/)
