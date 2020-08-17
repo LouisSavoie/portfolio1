@@ -10,6 +10,7 @@
     1. Yelp Camp
     2. Responsive Color Game
     3. Weather Report
+    4. This Page!
 * About Me
 
 ## Included Technologies
@@ -22,3 +23,5 @@
 * [Bootstrap 4](https://fontawesome.com/)
 * [Font Awesome](https://fontawesome.com/)
 * [uiGradients](https://uigradients.com/)
+* Scalable Vector Graphics
+* [Devicons](https://devicons.github.io/devicon/)
