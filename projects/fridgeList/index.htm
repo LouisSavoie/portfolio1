@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- SEO -->
+        <title>Fridge List - Grocery Tracker and more!</title>
+        <meta name="description" content="Track your groceries! See at a glace what you have in your fridge, freezer, pantry and what you need to pick up a the store!">
+        <meta name="keywords" content="Grocery List, Fridge List, Todo List, Shopping List">
+        <meta name="author" content="Louis Savoie">
+        <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <!-- Open Graph -->
+        <meta property="og:title" content="See why everyone loves this new shopping list app!">
+        <meta property="og:url" content=""> <!-- WIP -->
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="Track what's in your fridge, freezer, pantry, and make out your shopping list, it's so easy!">
+        <meta property="og:image" content=""> <!-- WIP -->
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="See how this shopping list app makes your life easier!">
+        <meta name="twitter:description" content="Track what's in your fridge, freezer, pantry, and make out your shopping list, it's so easy!">
+        <meta name="twitter:url" content=""> <!-- WIP -->
+        <meta property="twitter:image" content=""> <!-- WIP -->
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+        <link rel="manifest" href="favicon_io/site.webmanifest">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Yellowtail&display=swap" rel="stylesheet">
+        <!-- Font Awesome -->
+        <script src="https://kit.fontawesome.com/f48ece1f64.js" crossorigin="anonymous"></script>
+
+    </head>
+
+    <body>
+
+        <h1>Fridge List</h1>
+
+        <div class="container">
+    
+            <div id="app">
+                <index v-show="state === 'index'"></index>
+                <fridge v-show="state === 'fridge'"></fridge>
+                <freezer v-show="state === 'freezer'"></freezer>
+                <pantry v-show="state === 'pantry'"></pantry>
+                <groceries v-show="state === 'groceries'"></groceries>
+            </div>
+
+        </div>
+
+        <!-- Vue CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <!-- App JS -->
+        <script src="app.js"></script>
+
+    </body>
+
+</html>
