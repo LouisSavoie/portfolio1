@@ -10,7 +10,8 @@
     1. Yelp Camp
     2. Responsive Color Game
     3. Weather Report
-    4. This Page!
+    4. Fridge List
+    5. This Page!
 * About Me
 
 ## Included Technologies
