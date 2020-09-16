@@ -1,3 +1,12 @@
 [submodule "projects/carls-coffee-co"]
 	path = projects/carls-coffee-co
 	url = https://github.com/LouisSavoie/carls-coffee-co
+[submodule "projects/fridgeList"]
+	path = projects/fridgeList
+	url = https://github.com/LouisSavoie/fridgeList
+[submodule "projects/responsiveColorGame"]
+	path = projects/responsiveColorGame
+	url = https://github.com/LouisSavoie/responsiveColorGame
+[submodule "projects/weatherReport"]
+	path = projects/weatherReport
+	url = https://github.com/LouisSavoie/weather_report
