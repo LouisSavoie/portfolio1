@@ -1,5 +1,7 @@
 # My Portfolio Website
 
+**View Here:** [LouisSavoie.com](https://www.louissavoie.com/)
+
 ## Content
 
 * Link to Linkedin
@@ -11,7 +13,9 @@
     2. Responsive Color Game
     3. Weather Report
     4. Fridge List
-    5. This Page!
+    5. Carl's Coffee Co.
+    6. This Page!
+* Skills
 * About Me
 
 ## Included Technologies
