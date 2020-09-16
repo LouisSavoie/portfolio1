@@ -1,0 +1,3 @@
+[submodule "projects/carls-coffee-co"]
+	path = projects/carls-coffee-co
+	url = https://github.com/LouisSavoie/carls-coffee-co
