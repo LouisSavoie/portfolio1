@@ -10,3 +10,6 @@
 [submodule "projects/weatherReport"]
 	path = projects/weatherReport
 	url = https://github.com/LouisSavoie/weather_report
+[submodule "projects/infinite-monkey-theorem"]
+	path = projects/infinite-monkey-theorem
+	url = https://github.com/LouisSavoie/infinite-monkey-theorem
